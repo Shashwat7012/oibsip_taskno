@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Mouse+Memoirs&family=Preahvihear&display=swap');
+.body{
+    background-color:#394867;
+}
+.center{
+    text-align: center;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+.bg-red{
+    background-color: red;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+.mx-auto{
+    margin: auto;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+
+.container{
+
+    text-align: center;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+.button{
+    padding:20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+    font-family: 'Preahvihear', sans-serif;
+    color:#454545;
+    font-weight: bold;
+    width: 66px;
+}
+
+.flex{
+    display: flex;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+.flex-col{
+    flex-direction: column;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+
+.items-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+}
+.row{
+   
+    margin:8px 0;
+    font-family: 'Preahvihear', sans-serif;
+    color:#F1F6F9;
+    display: flex;
+   
+    align-items: center;
+    justify-content: space-around;
+}
+.row input{
+    width:299px;
+    margin:0;
+    padding:10px 0;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Preahvihear', sans-serif;
+    font-size:18px;
+    
+    
+}
+.foot{
+    text-align:center;
+    color:antiquewhite;
+    margin-top: 100px;
+}
+.button1{
+    display:flex;
+    justify-content:space-around;
+    text-align:center;
+    margin-left: 36;
+    padding: 40;
+    
+}
+.button2{
+    display:flex;
+    padding: 40;
+    margin-right: 40;
+    display:flex;
+    justify-content:space-around;
+    text-align:center;
+}
+.first{
+    color:#F1F6F9;
+    display:flex;
+    justify-content: center;
+    text-align:center;
+}
+button:hover{
+    transform: scale(0.9);
+}
